@@ -49,7 +49,7 @@ const Footer: React.FC<FooterProps> = ({ language }) => {
         title: 'Follow Us'
       },
       copyright: '© 2024 CodeCraft. All rights reserved.',
-      madeWith: 'Made with ❤️ for developers worldwide'
+      madeWith: ''
     },
     ar: {
       description: 'تمكين المطورين في جميع أنحاء العالم من خلال تعليم البرمجة المتميز والتجارب التعليمية العملية.',
@@ -90,7 +90,7 @@ const Footer: React.FC<FooterProps> = ({ language }) => {
         title: 'تابعنا'
       },
       copyright: '© 2024 CodeCraft. جميع الحقوق محفوظة.',
-      madeWith: 'صُنع بـ ❤️ للمطورين في جميع أنحاء العالم'
+      madeWith: ''
     }
   };
 
